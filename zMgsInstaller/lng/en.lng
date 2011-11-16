@@ -1,0 +1,3 @@
+[skin]
+install = Install skin %1 ?/nAuthor: %2/nDate: %3/nSize %4 bytes
+update = Update skin %1 ?/nAuthor: %2/nDate: %3/nSize %4 bytes

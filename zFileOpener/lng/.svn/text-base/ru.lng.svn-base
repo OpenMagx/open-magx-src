@@ -1,0 +1,6 @@
+[mes]
+runSh=Выполнить скрипт %1 ?
+extarctTo=Извлеч в
+fileNameDir=папку ./%1
+mesExtract=Распаковка...
+curDir=текущую папку

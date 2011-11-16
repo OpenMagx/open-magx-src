@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/9/trunk/zTextEdit/test_file
+END
+file3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9/trunk/zTextEdit/test_file/file3.txt
+END
+filegbk.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9/trunk/zTextEdit/test_file/filegbk.txt
+END
+filebig5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9/trunk/zTextEdit/test_file/filebig5.txt
+END
+file_win.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9/trunk/zTextEdit/test_file/file_win.txt
+END
+file_utf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9/trunk/zTextEdit/test_file/file_utf.txt
+END
+fileutf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9/trunk/zTextEdit/test_file/fileutf.txt
+END
+file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9/trunk/zTextEdit/test_file/file.txt
+END

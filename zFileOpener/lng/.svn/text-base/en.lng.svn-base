@@ -1,0 +1,6 @@
+[mes]
+runSh=Run script %1 ?
+extarctTo=Extract to
+fileNameDir=folder ./%1
+mesExtract=Extracting...
+curDir=current directory

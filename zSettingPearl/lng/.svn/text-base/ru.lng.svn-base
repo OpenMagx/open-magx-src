@@ -1,0 +1,34 @@
+[Info]
+LNG=Русский
+AUTHOR=Ant-ON
+
+[Strings]
+SAVE=Сохранить
+EXIT=Назад
+SELECT=Выбрать
+CANCEL=Отмена
+
+ON=Вкл
+OFF=Выкл
+YES=Да
+NO=Нет
+
+MB=МБ
+TURBO=Автоматический разгон процессора до 532
+JAVAHEAP=Размер Heap Java:
+USSD=Уведомление о USSD сообщении
+KB=КБ
+UNLIMIT=По умолчанию
+APMDFULL=Использовать процессор на 100%
+LOWBAT=Звук разряженной батареи
+JAVAERROR=Звук ошибки в Java
+MENU_FOCUS_ITEM=Пункт главного меню по умолчанию
+BROWSER_KEY=Кнопка браузера
+BROWSER_KEY_LONG=Кнопка браузера (длительно)
+SIDE_KEY=Боковая кнопка
+AMFIX=Исправления appbase:
+STD_SUB_MENU=Классический вид подменю
+LM_JAVA=Отдельное управление подсветкой в Java
+TIME_ACTION_DISP=Время активности дисплея
+PLAYER_VISUALIZATIONS=Визуализация в плеере
+J2ME_VIBRATE_LIMIT=Ограничение вибрации в Java

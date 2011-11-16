@@ -1,0 +1,59 @@
+[Main]
+Translate = Ant-ON
+
+[Strings]
+FILE = File
+SAVE = Save
+SAVEAS = Save as...
+OPEN = Open
+NEW  = New
+CODE = Code
+
+EDIT   = Edit
+ABOUT  = About
+EXIT   = Exit
+OPTION = Options
+
+COPY = Copy
+CUT  = Cut
+PASTE = Paste
+SELECT_ALL = Select all
+SELECT_BLOCK= Select block
+
+CANCEL   = Cancel
+FUNCTIONS = Options
+CHOISE   = Browse
+
+ENTER_FILE_NAME = Enter file name:
+SAVING = Saving...
+OPENING = Open file...
+
+FILE_CHANGED = File has been changed. Save changes?
+REWRITE    = Overwrite file %1?
+CHANGED    = Changed
+
+RELOAD_FILE = Reload the file to change the encoding? All changes will be lost ...
+FILE_SAVING_SUCCESS= File saved successfully
+FILE_SAVING_FAILED = Could not save file
+ERROR  = Error
+WARNING = Warning
+CLOSE_APP = Close App?
+	
+FONTSIZE = Font size:
+UNDERLINE = Underline
+ON = On
+OFF = Off
+AUTO_OPEN_FILE = ReOpen a file at startup
+INFOBAR = Information bar
+COPY_MENU_ON_DIAL = Copy menu on dial button
+CHINESE_CODE_DETECT=Chinases codes detect
+SELECT_CUR_LINE=Select current line
+
+SEARCH=Search
+FIND=Find
+OK=OK
+
+DLG = Documents
+NEW_DLG = New document
+CLOSE_DLG = Close document
+NEXT_DLG = Next document

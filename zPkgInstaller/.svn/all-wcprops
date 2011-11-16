@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/zPkgInstaller
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/zPkgInstaller/main.cpp
+END
+xInstaller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/trunk/zPkgInstaller/xInstaller.cpp
+END
+xInstaller.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/zPkgInstaller/xInstaller.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/zPkgInstaller/Makefile
+END

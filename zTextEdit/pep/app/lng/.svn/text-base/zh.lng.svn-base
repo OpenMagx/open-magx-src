@@ -1,0 +1,60 @@
+[Main]
+Title = zTextEdit
+Translate = Ant-ON
+
+[Strings]
+FILE = 选项
+SAVE = 保存
+SAVEAS = 另存为...
+OPEN = 打开
+NEW  = 新建
+CODE = 编码
+
+EDIT = 编辑
+ABOUT = 关于
+EXIT = 返回
+OPTION = 选项
+
+COPY = 复制
+CUT = 剪切
+PASTE = 粘贴
+SELECT_ALL = 全选
+SELECT_BLOCK= 选择区块
+
+CANCEL = 取消
+FUNCTIONS = 选项
+CHOISE = 浏览
+
+ENTER_FILE_NAME = 输入名字:
+SAVING = 保存...
+OPENING = 打开文件...
+
+FILE_CHANGED = 文件已经改变，保存修改?
+REWRITE = 重写文件 %1?
+CHANGED = 修改
+
+RELOAD_FILE = 重新加载该文件，以更改编码？所有更改将丢失...
+FILE_SAVING_SUCCESS = 文件保存成功
+FILE_SAVING_FAILED = 不能保存文件
+ERROR = 错误
+WARNING = 警告
+CLOSE_APP = 关闭程序?
+	
+FONTSIZE = 字体大小:
+UNDERLINE = 下划线
+ON = 开启
+OFF = 关闭
+AUTO_OPEN_FILE = 记住最后打开的文件
+INFOBAR = 信息栏
+COPY_MENU_ON_DIAL = 拨号按键呼出复制选项
+CHINESE_CODE_DETECT=
+SELECT_CUR_LINE=
+
+SEARCH = 搜索
+FIND = 搜索
+OK=批准
+
+DLG = Documents
+NEW_DLG = New document
+CLOSE_DLG = Close document
+NEXT_DLG = Next document

@@ -1,0 +1,59 @@
+[Main]
+Translate = Ant-ON
+
+[Strings]
+FILE = Файл
+SAVE = Сохранить
+SAVEAS = Сохранить как...
+OPEN = Открыть
+NEW  = Новый
+OPTION = Настройки
+CODE = Кодировка
+
+EDIT   = Изменить
+ABOUT  = О программе
+EXIT   = Выход
+
+COPY = Копировать
+CUT  = Вырезать
+PASTE= Вставить
+SELECT_ALL = Выбрать всё
+SELECT_BLOCK = Выделить блок
+
+CANCEL = Отмена
+FUNCTIONS= Функции
+CHOISE = Выбор
+
+SAVING = Сохранение...
+OPENING = Открытие...
+
+ENTER_FILE_NAME = Введите имя файла:
+FILE_CHANGED = Файл был изменен. Сохранить изменения?
+REWRITE    = Перезаписать файл %1?
+CHANGED    = Изменён
+
+RELOAD_FILE    = Перечитать файл для смены кодировки? Все изменения будут утеряны...
+FILE_SAVING_SUCCESS= Файл успешно сохранен
+FILE_SAVING_FAILED = Файл не может быть сохранен
+ERROR  = Ошибка
+WARNING= Предупреждение
+CLOSE_APP= Закрыть приложение?
+
+FONTSIZE = Размер шрифта
+UNDERLINE = Линии строк
+ON = Вкл.
+OFF = Выкл.
+AUTO_OPEN_FILE = Переоткрывать файл при запуске
+INFOBAR = Панель информации
+COPY_MENU_ON_DIAL=Меню копирования на кнопке вызова
+CHINESE_CODE_DETECT=Определение китайских кодировок
+SELECT_CUR_LINE=Выделение текущей строки
+
+SEARCH=Поиск
+FIND=Искать
+OK=ОК
+
+DLG=Документы
+NEW_DLG=Новый документ
+CLOSE_DLG=Закрыть документ
+NEXT_DLG=Следующий документ	

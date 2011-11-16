@@ -1,0 +1,6 @@
+[mes]
+runSh = 是否运行脚本 %1 ?
+extarctTo = 解压到
+fileNameDir = 文件夹 ./%1
+mesExtract = 正在提取...
+curDir = 当前路径

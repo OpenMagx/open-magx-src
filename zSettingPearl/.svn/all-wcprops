@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/zSettingPearl
+END
+zSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/zSettingPearl/zSettings.h
+END
+ZDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/zSettingPearl/ZDefs.h
+END
+lng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/zSettingPearl/lng.cpp
+END
+UTIL_Sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/zSettingPearl/UTIL_Sys.h
+END
+BaseDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/zSettingPearl/BaseDlg.cpp
+END
+ZOptionItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/zSettingPearl/ZOptionItem.cpp
+END
+GUI_Define.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/zSettingPearl/GUI_Define.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/zSettingPearl/main.cpp
+END
+lng.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/zSettingPearl/lng.h
+END
+BaseDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7/trunk/zSettingPearl/BaseDlg.h
+END
+ZOptionItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/zSettingPearl/ZOptionItem.h
+END
+zSettings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/zSettingPearl/zSettings.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/zSettingPearl/Makefile
+END

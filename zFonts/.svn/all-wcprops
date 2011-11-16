@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/7/trunk/zFonts
+END
+ZAboutDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7/trunk/zFonts/ZAboutDlg.h
+END
+BaseDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7/trunk/zFonts/BaseDlg.cpp
+END
+ZFonts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7/trunk/zFonts/ZFonts.cpp
+END
+GUI_Define.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7/trunk/zFonts/GUI_Define.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/zFonts/main.cpp
+END
+BaseDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/zFonts/BaseDlg.h
+END
+ZFonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/zFonts/ZFonts.h
+END
+ZAboutDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/7/trunk/zFonts/ZAboutDlg.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/trunk/zFonts/Makefile
+END

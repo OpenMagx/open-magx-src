@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11/trunk/zPkgInstaller/include
+END
+AM_MPKGUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7/trunk/zPkgInstaller/include/AM_MPKGUI.h
+END
+AM_InstallDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/zPkgInstaller/include/AM_InstallDlg.h
+END
+MYSTUFF_Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/zPkgInstaller/include/MYSTUFF_Global.h
+END
+AM_UninstallAppDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/zPkgInstaller/include/AM_UninstallAppDlg.h
+END
+AM_SelectFolderDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/zPkgInstaller/include/AM_SelectFolderDlg.h
+END

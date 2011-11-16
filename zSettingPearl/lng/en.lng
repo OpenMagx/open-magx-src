@@ -1,0 +1,34 @@
+[Info]
+LNG=English
+AUTHOR=Ant-ON
+
+[Strings]
+SAVE=Save
+EXIT=Back
+SELECT=Select
+CANCEL=Cancel
+
+ON=On
+OFF=Off
+YES=Yes
+NO=No
+
+MB=MB
+TURBO=Automatic overclocking to 532
+JAVAHEAP=Size Heap Java:
+USSD=Sound of the USSD message
+KB=KB
+UNLIMIT=Default
+APMDFULL=Use the processor to 100%
+LOWBAT=Sound of the low battery
+JAVAERROR=Sound of the errors in Java
+MENU_FOCUS_ITEM=Main menu item by default
+BROWSER_KEY=Browser button
+BROWSER_KEY_LONG=Browser button (long)
+SIDE_KEY = Side Button
+AMFIX = Fix appbase:
+STD_SUB_MENU=Classic submenu
+LM_JAVA=Independent control of light in the Java
+TIME_ACTION_DISP=Time activity display
+PLAYER_VISUALIZATIONS=Visualizations in player
+J2ME_VIBRATE_LIMIT=Vibrate limit in Java

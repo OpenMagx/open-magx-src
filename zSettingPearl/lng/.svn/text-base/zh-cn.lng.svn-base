@@ -1,0 +1,34 @@
+﻿[Info]
+LNG = Chinese
+AUTHOR = Wanggjghost(泪の单翼天使)
+
+[Strings]
+SAVE = 保存
+EXIT = 返回
+SELECT = 选择
+CANCEL = 取消
+
+ON = 开启
+OFF = 关闭
+YES = 是
+NO = 否
+
+MB = MB
+TURBO = cpu自动超频到532
+JAVAHEAP = Java堆栈:
+USSD = USSD信息音
+KB = KB
+UNLIMIT = 默认
+APMDFULL = 使用100%处理器资源
+LOWBAT = 低电警报音
+JAVAERROR = Java错误提示音
+MENU_FOCUS_ITEM = 默认菜单列表
+BROWSER_KEY = 浏览器(音乐)键
+BROWSER_KEY_LONG = 浏览器(音乐)键(长按)
+SIDE_KEY = 侧边键
+AMFIX = 使用appbase修改版:
+STD_SUB_MENU = 古典二级菜单
+LM_JAVA = Java独立背光控制
+TIME_ACTION_DISP = 显示超时
+PLAYER_VISUALIZATIONS = 可视化播放器
+J2ME_VIBRATE_LIMIT = Java震动限制

@@ -1,0 +1,23 @@
+[Actions]
+Silent=0
+InstallApp = 1   
+AddAppToMenu = 1
+AssignExt=1
+
+[InstallApp]
+Name = zTextEdit
+Exec = zTextEdit
+InstallPath = ../../mmc/mmca1/.Programs/zTextEdit/
+AppLockable = 1
+Author = Ant-ON
+Version = 0.3.1
+Daemon = 1
+BigIcon= zTextEdit_usr.png
+AniIcon= zTextEdit_usr.png
+Icon= zTextEdit_small_usr.png
+
+[AddAppToMenu]
+ParentFolder= root
+
+[AssignExt]
+Ext=txt;cfg;ini;

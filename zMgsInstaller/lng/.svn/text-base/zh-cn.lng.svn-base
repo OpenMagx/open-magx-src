@@ -1,0 +1,3 @@
+[skin]
+install = 安装主题 %1 ?/n作者: %2/n日期: %3/n大小 %4 bytes
+update = 升级主题 %1 ?/n作者: %2/n日期: %3/n大小 %4 bytes
